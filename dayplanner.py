@@ -268,7 +268,7 @@ def day_planner() -> None:
     st.markdown(f"""
         <div class='inline-container'>
             {logo_html}
-            <h1>DayPlanner GPT</h1>
+            <h1>DayPlanner</h1>
         </div>
     """, unsafe_allow_html=True)
 
